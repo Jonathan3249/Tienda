@@ -1,0 +1,100 @@
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialDesignColors.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialSkin.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\MainWindow.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\AddPermisos.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\AddPersonas.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Login.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Permisos.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Personas.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\App.baml
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\MainWindow.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\AddPermisos.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\AddPersonas.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Login.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Permisos.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Vistas\Personas.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\App.g.cs
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda_MarkupCompile.cache
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda_MarkupCompile.lref
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda.g.resources
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\Ventas.csproj.CopyComplete
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+C:\Users\SlowLoris\Desktop\Proyecto Tienda\ProyectoTienda\obj\Debug\ProyectoTienda.pdb
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\ProyectoTienda.exe.config
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\ProyectoTienda.exe
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\ProyectoTienda.pdb
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialDesignColors.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialSkin.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\MainWindow.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddPermisos.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddProducto.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddPersonas.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Login.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Permisos.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Productos.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Personas.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\App.g.cs
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda_MarkupCompile.cache
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda_MarkupCompile.lref
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\App.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\MainWindow.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddPermisos.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddProducto.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\AddPersonas.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Login.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Permisos.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Productos.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Vistas\Personas.baml
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda.g.resources
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\Ventas.csproj.CopyComplete
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda.exe
+C:\Users\SlowLoris\Desktop\Desarrollador\Principal_Ventas\Ventas\Ventas\obj\Debug\ProyectoTienda.pdb

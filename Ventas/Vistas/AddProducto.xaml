@@ -1,0 +1,33 @@
+﻿<Window x:Class="ProyectoTienda.Vistas.AddProducto"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoTienda.Vistas"
+        mc:Ignorable="d"
+        Title="AddPersonas"  ResizeMode="NoResize" Height="575" Width="480" WindowState="Normal" WindowStartupLocation="CenterScreen" WindowStyle="None" Closing="Window_Closing">
+    <Grid>
+        <materialDesign:ColorZone Mode="PrimaryDark" Background="Teal" HorizontalAlignment="Stretch" Height="33">
+            <TextBlock HorizontalAlignment="Left" Margin="10,6,0,0" TextWrapping="Wrap" Text="Personas" VerticalAlignment="Top" Width="153" Height="24" Foreground="White" FontSize="18"/>
+
+        </materialDesign:ColorZone>
+        <Button Height="32" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0"  BorderBrush="#FFB9AFCB" Background="Teal" Margin="442,0,0,542" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="38" Click="Button_Click">
+            <materialDesign:PackIcon Kind="WindowClose" Background="Teal"/>
+        </Button>
+        <Label Content="Descripcion:" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Height="25"/>
+        <Label Content="Unidad Minima:" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label Content="Precio Venta:" HorizontalAlignment="Left" Margin="10,137,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox x:Name="txtDesceipcion" HorizontalAlignment="Left" Height="23" Margin="126,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="332"/>
+        <TextBox x:Name="txtUnidadMin" HorizontalAlignment="Left" Height="23" Margin="126,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="332"/>
+        <TextBox x:Name="txtPrecioVenta" HorizontalAlignment="Left" Height="22" Margin="126,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="332"/>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Margin="252,533,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Click="Button_Click_1"/>
+        <Button Content="Aceptar" HorizontalAlignment="Left" Margin="383,533,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

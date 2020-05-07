@@ -1,0 +1,34 @@
+﻿<Window x:Class="ProyectoTienda.Vistas.Productos"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoTienda.Vistas"
+        mc:Ignorable="d"
+        Title="Personas" Height="400" Width="600" WindowState="Normal" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid MouseLeftButtonDown="mover">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="482*"/>
+            <RowDefinition Height="93*"/>
+        </Grid.RowDefinitions>
+        <materialDesign:ColorZone Mode="PrimaryDark" Background="Teal" HorizontalAlignment="Stretch" Height="33" >
+            <TextBlock HorizontalAlignment="Left" Margin="10,6,0,0" TextWrapping="Wrap" Text="Productos" VerticalAlignment="Top" Width="153" Height="24" Foreground="White" FontSize="18"/>
+
+        </materialDesign:ColorZone>
+        <Button Height="Auto" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0"  BorderBrush="#FFB9AFCB" Background="Teal" Margin="562,0,0,303" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="38" Click="Button_Click_1" >
+            <materialDesign:PackIcon Kind="WindowClose" Background="Teal"/>
+        </Button>
+        <DataGrid x:Name="ventana" SelectionUnit="FullRow" SelectionMode="Single" IsReadOnly="True" CanUserSortColumns="False" CanUserReorderColumns="False" CanUserResizeColumns="False" ItemsSource="{Binding}" AutoGenerateColumns="True" HorizontalAlignment="Left" Height="278" Margin="10,47,0,0" VerticalAlignment="Top" Width="580"/>
+        <Button Content="Insertar" HorizontalAlignment="Left" Margin="70,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Grid.Row="1" Click="Button_Click_4"/>
+        <Button Content="Borrar" HorizontalAlignment="Left" Margin="194,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Grid.Row="1" Click="Button_Click_3"/>
+        <Button Content="Actualizar" HorizontalAlignment="Left" Margin="325,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Grid.Row="1" Click="Button_Click"/>
+        <Button Content="Refrescar" HorizontalAlignment="Left" Margin="449,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft Sans Serif" FontSize="12" FontStretch="Condensed" Padding="1" Grid.Row="1" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
